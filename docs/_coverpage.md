@@ -1,4 +1,4 @@
-![logo](https://4.bp.blogspot.com/-cvLAyXhtB3c/XQrc0yQCQ2I/AAAAAAAMlPE/wNN_5eU1Xe0SYainh1NefU-sBIYj8ZksACLcBGAs/s1600/AS0005411_03.gif)
+![logo](https://stickershop.line-scdn.net/stickershop/v1/product/1315234/LINEStorePC/main.png;compress=true)
 
 # Git筆記
 

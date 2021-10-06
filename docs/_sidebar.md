@@ -1,5 +1,4 @@
 - [README](README.md)
-- [README](README.md)
 
 - articles
   - [Ch_1](articles/ch_1.md)
